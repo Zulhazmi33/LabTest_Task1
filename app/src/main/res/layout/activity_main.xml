@@ -56,22 +56,19 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="100dp"
-            android:text="@string/easy"
-            android:onClick="difficulty"/>
+            android:text="@string/easy"/>
 
         <RadioButton
             android:id="@+id/mediumButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/medium"
-            android:onClick="difficulty"/>
+            android:text="@string/medium"/>
 
         <RadioButton
             android:id="@+id/hardButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/hard"
-            android:onClick="difficulty"/>
+            android:text="@string/hard"/>
     </RadioGroup>
 
     <TextView
