@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MindSharpener</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="answer">      Your Answer</string>
+    <string name="submit">Check</string>
+</resources>
